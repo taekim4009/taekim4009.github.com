@@ -1,4 +1,12 @@
-p
-{
-  color: red;
+p{ 
+    color:blue;
+} 
+
+.bigAndBlue{ 
+    font-size: 20px; 
+    color: blue; 
+} 
+
+#redParagraph{ 
+    color: red; 
 }
