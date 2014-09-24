@@ -11,6 +11,11 @@ p{
     color: blue; 
 } 
 
+.bigAndRed{ 
+    font-size: 20px; 
+    color: red; 
+} 
+
 #redParagraph{ 
     color: red; 
 }
